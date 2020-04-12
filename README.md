@@ -9,5 +9,6 @@ The images have been converted to monochrome 50x50 matrices and stored. The way 
 
 On a isolated validation batch of size 400, the following results were obtained.
 
-![error and accuracy per epoch](images/analytics.png)
-Note: Max accuracy here was 87.75%.
+![error and accuracy per epoch](images/analytics.png)\
+Note: Max accuracy here was 87.75%. 
+hello
