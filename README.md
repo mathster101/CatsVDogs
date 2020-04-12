@@ -7,4 +7,4 @@ Find the dataset here -> https://drive.google.com/open?id=181j8UCrxIuW50YKpVuDo4
 The dataset essentially contains ~24000 images of cats and dogs together. 
 The images have been converted to monochrome 50x50 matrices and stored. The way its currently stored enables it to be compatible with pytorch's dataloader utility.
 
-![](images/analytics.png)
+![error and accuracy per epoch](images/analytics.png)
