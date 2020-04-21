@@ -12,4 +12,5 @@ On a isolated validation batch of size 400, the following results were obtained.
 ![error and accuracy per epoch](images/analytics.png)\
 Note: Max accuracy here was 87.75%. 
 
-2 CNN architectures are available for comparison (6 and 7 conv layers respectively). We're limited to a best case accuracy of ~90% due to the extreme resizing undergone by the images. If higher resolution images are used, the accuracy drastically increases but so does the computational load.
+2 CNN architectures are available for comparison (6 and 7 conv layers respectively). We're limited to a best case accuracy of ~90% due to the extreme resizing undergone by the images. If higher resolution images are used, the accuracy drastically increases but so does the computational load.\
+Refer to det_analysis.pdf for a detailed report of the project.
